@@ -1,9 +1,4 @@
-# Projet-1-SQL-BI---Toys-Models
-Le directeur de l’entreprise souhaite avoir un tableau de bord qu’il pourrait actualiser chaque matin pour obtenir les dernières informations afin de gérer l’entreprise.
-
-Projet 1 : SQL & BI - Toys & Models
-0
-# Projet Data - Toys & Models 🎲📊
+# Projet_1_SQL & BI - Toys & Models 🎲📊
 
 ## 📌 Description
 Ce projet analyse les performances de l’entreprise *Toys & Models* à l’aide de SQL et Power BI.  
