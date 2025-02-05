@@ -1,4 +1,4 @@
-# Projet_1_SQL & BI - Toys & Models 🎲📊
+# Projet_SQL & BI - Toys & Models 🎲📊
 
 ## 📌 Description
 Ce projet analyse les performances de l’entreprise *Toys & Models* à l’aide de SQL et Power BI.  
